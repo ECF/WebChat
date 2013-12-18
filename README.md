@@ -10,6 +10,7 @@ Apache Felix whiteboard: http://www.lemmster.de/blog/index.php/2013/12/11/1496
 
 At runtime, the following bundles are needed (with Equinox/Jetty/Apache Whiteboard/ECF Zookeeper & generic):
 
+<pre>
 osgi> ss 
 "Framework is launched."
 
@@ -68,3 +69,4 @@ id	State       Bundle
 45	ACTIVE      org.eclipse.jetty.security_8.1.12.v20130726
 46	ACTIVE      org.eclipse.equinox.http.jetty_3.0.200.v20131021-1843
 47	ACTIVE      org.eclipse.equinox.ds_1.4.200.v20131126-2331
+</pre>
