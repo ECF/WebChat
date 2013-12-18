@@ -5,8 +5,8 @@ A Webbyfied connector for the ECF Chat application that uses OSGi remote service
 
 Requirements
 ============
-Chat application and its model: https://github.com/ECF/Chat
-Apache Felix whiteboard: http://www.lemmster.de/blog/index.php/2013/12/11/1496
+- Chat application and its model: https://github.com/ECF/Chat
+- Apache Felix whiteboard: http://www.lemmster.de/blog/index.php/2013/12/11/1496
 
 At runtime, the following bundles are needed (with Equinox/Jetty/Apache Whiteboard/ECF Zookeeper & generic):
 
