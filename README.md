@@ -1,7 +1,7 @@
 WebChat
 =======
 
-A Webbyfied connector for the Chat application
+A Webbyfied connector for the ECF Chat application that uses OSGi remote services (http://wiki.eclipse.org/OSGi_Remote_Services_and_ECF) at its heart. It does not target existing chat networks or protocols.
 
 Requirements
 ============
